@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwamiSankar
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning React.js and Python
-- 💞️ I’m looking to collaborate on Data science and full stack projects
+- 👀 I’m interested in Web App Development
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me Email : swamisankar2008@gmail.com
 
 <!---
