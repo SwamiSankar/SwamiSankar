@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwamiSankar
 - 👀 I’m interested in Web App Development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on full stack projects
+- 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach me Email : swamisankar2008@gmail.com
 
 <!---
